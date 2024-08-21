@@ -1,0 +1,23 @@
+@font-face {
+	font-family: 'summernote';
+	src: url(../../assets/fonts/summernote-c849ab60f98e00d463458b8804a141df.eot) format('embedded-opentype'),
+	url(../../assets/fonts/summernote-c849ab60f98e00d463458b8804a141df.eot) format('embedded-opentype'),
+	url(../../assets/fonts/summernote-59c56008923b307d41a95d8563d4b5e6.woff2) format('woff2'),
+	url(../../assets/fonts/summernote-6d49e0d1952a496999c27ac5bc6a10ce.woff) format('woff'),
+	url(../../assets/fonts/summernote-46726cc7e5b2748340a0d0acac9c200b.ttf) format('truetype');
+	font-weight: 400;
+	font-style: normal;
+	font-display: auto;
+}
+
+@font-face {
+	font-family: 'summernote';
+	src: url(../../assets/fonts/summernote-c849ab60f98e00d463458b8804a141df.eot) format('embedded-opentype'),
+	url(../../assets/fonts/summernote-c849ab60f98e00d463458b8804a141df.eot) format('embedded-opentype'),
+	url(../../assets/fonts/summernote-59c56008923b307d41a95d8563d4b5e6.woff2) format('woff2'),
+	url(../../assets/fonts/summernote-6d49e0d1952a496999c27ac5bc6a10ce.woff) format('woff'),
+	url(../../assets/fonts/summernote-46726cc7e5b2748340a0d0acac9c200b.ttf) format('truetype');
+	font-weight: 400;
+	font-style: normal;
+	font-display: auto;
+}

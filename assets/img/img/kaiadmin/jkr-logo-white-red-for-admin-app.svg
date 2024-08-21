@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="525.292" height="80" viewBox="0 0 525.292 80">
+  <defs>
+    <filter id="JKR_Text" x="5.483" y="18" width="78" height="50" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="JKR_Logo" data-name="JKR Logo" transform="translate(-69.44 -69.44)">
+    <circle id="Ellipse" cx="40" cy="40" r="40" transform="translate(149.44 149.44) rotate(180)" fill="#e85c07"/>
+    <path id="Black_Ring" data-name="Black Ring" d="M40,80a40.313,40.313,0,0,1-8.068-.815A39.985,39.985,0,0,1,.813,48.061a40.39,40.39,0,0,1,0-16.123A39.986,39.986,0,0,1,31.939.813,40.3,40.3,0,0,1,40,0c.175,0,.354,0,.533,0V0H68a12.088,12.088,0,0,1,2.418.244,12,12,0,0,1,9.338,9.338A12.089,12.089,0,0,1,80,12V40a40.318,40.318,0,0,1-.815,8.071A39.985,39.985,0,0,1,48.061,79.187,40.3,40.3,0,0,1,40,80Zm.133-73.6a34.133,34.133,0,0,0-6.806.684,33.594,33.594,0,0,0,0,65.832,34.194,34.194,0,0,0,13.6,0,33.594,33.594,0,0,0,0-65.834,34.112,34.112,0,0,0-6.8-.683Z" transform="translate(69.44 69.44)" fill="#fff"/>
+    <g transform="matrix(1, 0, 0, 1, 69.44, 69.44)" filter="url(#JKR_Text)">
+      <text id="JKR_Text-2" data-name="JKR Text" transform="translate(9.48 47)" fill="#4e4e4e" font-size="31" font-family="BankGothicBT-Medium, BankGothic Md BT" font-weight="500" letter-spacing="-0.17em"><tspan x="0" y="0">JKR</tspan></text>
+    </g>
+    <text id="Asset_Management" data-name="Asset Management" transform="translate(181.732 116.43)" fill="#fff" font-size="42" font-family="BankGothicBT-Medium, BankGothic Md BT" font-weight="500" letter-spacing="-0.05em"><tspan x="0" y="0">Asset Management</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,28 @@
+<svg id="V3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <filter id="Black_Ring" x="208" y="208" width="618" height="618" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="JKR_Text" x="279" y="373" width="472" height="265" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect id="Foreground" width="1024" height="1024" fill="rgba(0,0,0,0)"/>
+  <g id="JKR_Logo" data-name="JKR Logo" transform="translate(142.556 142.556)">
+    <circle id="Ellipse" cx="300" cy="300" r="300" transform="translate(669.444 669.444) rotate(180)" fill="#e85c07"/>
+    <g transform="matrix(1, 0, 0, 1, -142.56, -142.56)" filter="url(#Black_Ring)">
+      <path id="Black_Ring-2" data-name="Black Ring" d="M300,600a302.22,302.22,0,0,1-60.461-6.1,298.359,298.359,0,0,1-107.273-45.14A300.876,300.876,0,0,1,23.576,416.774,298.49,298.49,0,0,1,6.095,360.461a302.926,302.926,0,0,1,0-120.921A298.357,298.357,0,0,1,51.235,132.268,300.877,300.877,0,0,1,183.227,23.576,298.489,298.489,0,0,1,239.54,6.095,302.218,302.218,0,0,1,300,0c1.309,0,2.655.009,4,.026V0H510a90.657,90.657,0,0,1,18.138,1.828A89.5,89.5,0,0,1,560.32,15.371a90.263,90.263,0,0,1,32.607,39.6,89.554,89.554,0,0,1,5.244,16.894A90.664,90.664,0,0,1,600,90V300a302.214,302.214,0,0,1-6.095,60.46,298.357,298.357,0,0,1-45.14,107.272A300.875,300.875,0,0,1,416.774,576.425a298.485,298.485,0,0,1-56.313,17.48A302.218,302.218,0,0,1,300,600Zm1-552a255.846,255.846,0,0,0-50.988,5.12,251.956,251.956,0,0,0,0,493.76,256.457,256.457,0,0,0,101.977,0,251.956,251.956,0,0,0,0-493.76A255.842,255.842,0,0,0,301,48Z" transform="translate(212 212)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -142.56, -142.56)" filter="url(#JKR_Text)">
+      <text id="JKR_Text-2" data-name="JKR Text" transform="translate(510 568)" fill="#4e4e4e" font-size="236" font-family="BankGothicBT-Medium, BankGothic Md BT" font-weight="500" letter-spacing="-0.17em"><tspan x="-226.878" y="0">JKR</tspan></text>
+    </g>
+  </g>
+</svg>

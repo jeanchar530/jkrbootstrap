@@ -1,0 +1,41 @@
+----------
+
+Tue Aug 20 2024 22:25:00 GMT-0400 (Eastern Daylight Time)
+
+fatal: not a git repository (or any parent up to mount point /Volumes)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+
+
+----------
+
+Tue Aug 20 2024 22:25:01 GMT-0400 (Eastern Daylight Time)
+
+fatal: not a git repository (or any parent up to mount point /Volumes)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+
+
+----------
+
+Tue Aug 20 2024 22:25:01 GMT-0400 (Eastern Daylight Time)
+
+fatal: not a git repository (or any parent up to mount point /Volumes)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+
+
+----------
+
+Tue Aug 20 2024 22:30:50 GMT-0400 (Eastern Daylight Time)
+
+fatal: 'origin' does not appear to be a git repository
+
+
+----------
+
+Tue Aug 20 2024 22:30:50 GMT-0400 (Eastern Daylight Time)
+
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+
